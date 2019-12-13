@@ -32,7 +32,7 @@
         "moleculer-db-adapter-mongoose": "^0.7.2",
         "moleculer-web": "^0.8.0",
         "mongoose": "^5.5.13",
-        "npm": "^6.9.0"
+        "npm": "^6.13.4"
     },
     "engines": {
         "node": ">= 8.x.x"
